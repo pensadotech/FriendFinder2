@@ -1,0 +1,64 @@
+
+h1 {
+  font-size: 70px;
+  margin-left: 20px;
+  font-weight: normal;
+}
+
+h3 {
+  margin: 10px 0px 40px 20px;
+  font-weight: normal;
+}
+
+.divider {
+  background-color: rgb(77, 118, 153);
+  height: 1px;
+  /* width: 95%; */
+  margin: 20px 0px 0px 0px;
+}
+
+.titleSection, .btnReturn {
+  margin: 20px 0px 0px 0px;
+}
+
+.infoForm {
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.personalInfo {
+  width: 600px;
+}
+
+.questionBlock {
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.btnSubmit {
+  margin-top: 20px;
+  margin-left: 15px;
+  width: 95%;
+}
+
+.entryError {
+  color: red;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.questionLabel {
+  font-weight: bold;
+  margin-top: 20px;
+
+}
+
+.questionDescr {
+  font-size:20px;
+}
+
+.questionAnswer {
+  width: 250px;
+}
